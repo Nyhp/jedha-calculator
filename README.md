@@ -1,1 +1,1 @@
-Calculator exercies from Jedha
+CI/CD exercies from Jedha
